@@ -1,6 +1,6 @@
 # ZIP_arrays_together_vica_versa
 
-Read attentively,
+Read attentively,   must select master branch
 
 1. download jar file as zip
 
